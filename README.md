@@ -71,7 +71,7 @@ Two key thresholds were validated empirically before building the model:
 
 Example play showing a high-CSOE defensive close (Mike Ford, CSOE: +3.00):
 
-![CSOE Animation](media/csoe_animation.gif)
+![CSOE Animation](media/csoe_animacion.gif)
 
 ## Tech Stack
 
