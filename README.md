@@ -42,7 +42,7 @@ Two key thresholds were validated empirically before building the model:
 | **R² = 0.563** | Initial distance explains 56% of closing speed variance |
 | **p < 10⁻⁷⁷** | CSOE is statistically significant in predicting pass breakups vs completions |
 | **Cornerbacks** show the highest CSOE ceiling | Safeties and linebackers have narrower distributions |
-| **Fatigue effects** are measurable | CSOE degrades in late-game situations |
+| **Fatigue trend** | Average CSOE declines slightly from Q1 (+0.03) to Q4 (−0.03) (Fig 8) |
 
 ## Figures
 
@@ -61,8 +61,14 @@ Two key thresholds were validated empirically before building the model:
 ### Fig 5. Positional DNA — Distribution of Burst by Position
 ![Positional DNA](figures/Fig5_Positional_DNA.png)
 
+### Fig 6. Closing the Window — Higher CSOE = Tighter Coverage
+![Separation](figures/Fig6_Separation.png)
+
 ### Fig 7. Team Ranking
 ![Team Ranking](figures/Fig7_Team_Ranking.png)
+
+### Fig 8. The Fatigue Factor — Burst Declines as Game Progresses
+![Fatigue](figures/Fig8_Fatigue.png)
 
 ### Fig 9. Player Leaderboard
 ![Leaderboard](figures/Fig9_Leaderboard.png)
